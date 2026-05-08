@@ -10,3 +10,9 @@ data/2015.csv
 
 # Word temp/lock files
 ~$*
+
+# LaTeX
+paper/
+
+# macOS
+.DS_Store
