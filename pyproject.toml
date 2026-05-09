@@ -1,0 +1,31 @@
+[project]
+name = "msds-spring2026"
+version = "0.1.0"
+requires-python = ">=3.11"
+
+dependencies = [
+  "ipykernel",
+  "jupyterlab",
+  "numpy",
+  "pandas",
+  "matplotlib",
+  "scipy",
+  "scikit-learn",
+  "statsmodels",
+  "six>=1.17.0",
+  "xlrd>=2.0.2",
+  "torch>=2.10.0",
+  "torchvision>=0.25.0",
+  "yfinance>=1.2.0",
+  "pyarrow>=23.0.1",
+  "tqdm>=4.67.3",
+  "lxml>=6.0.2",
+  "edgartools>=5.25.0",
+  "librosa>=0.11.0",
+  "torchsummary>=1.5.1",
+  "cvxpy>=1.8.2",
+  "openpyxl>=3.1.0",
+  "kagglehub>=1.0.0",
+  "kaggle>=2.1.0",
+  "seaborn>=0.13.2",
+]
