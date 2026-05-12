@@ -12,3 +12,6 @@ paper/
 
 # macOS
 .DS_Store
+
+# pdf files
+*.pdf
