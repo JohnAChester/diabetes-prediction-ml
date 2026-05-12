@@ -13,5 +13,5 @@ paper/
 # macOS
 .DS_Store
 
-# pdf files
-*.pdf
+# Output PDFs
+outputs/*.pdf
